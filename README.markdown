@@ -119,12 +119,9 @@ Two zero-energy modes indicate Majorana formation.
 Topological: Clear zero-bias peak  
 Trivial: No peak or split peaks
 
-![Our Conductance Map](assets/our_conductance_map.png)
+![Our Conductance Map](results/c1.png)
 
-#### 🔹 Phase Diagram (µ vs ∆)
-Regions with high frequency of MZMs under specific gate control.
 
-![Phase Diagram](assets/phase_diagram_mu_delta.png)
 
 ---
 
