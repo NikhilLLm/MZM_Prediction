@@ -4,4 +4,4 @@ mzm_project
 run.log
 train.log
 README.md
-_init_.py
+__init__.py
