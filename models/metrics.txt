@@ -1,0 +1,4 @@
+Performance Metrics (Test Set):
+Model	Accuracy	Precision (Topo)	Recall (Topo)	F1 (Topo)	Precision (Triv)	Recall (Triv)	F1 (Triv)
+ResNet	0.648		0.504		0.552		0.527		0.740		0.701		0.720
+SVM	0.535		0.252		0.158		0.194		0.616		0.743		0.673
