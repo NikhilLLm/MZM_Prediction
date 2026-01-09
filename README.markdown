@@ -66,7 +66,7 @@ Two complementary pipelines are implemented:
 | **Wavefunction-Based (BdG)**  | Eigenstates of Kitaev chain | Spectra, localization profiles | Detect edge-localized zero modes |
 | **Conductance-Based (Kwant)** | Transport signatures        | 2D conductance maps (dI/dV)    | Detect ZBPs in tunneling spectra |
 
-> **Note:** The **conductance-map pipeline** was independently implemented and analyzed by *me*, including data generation, preprocessing, feature learning, and evaluation.
+
 
 ---
 
